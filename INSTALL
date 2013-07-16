@@ -1,0 +1,8 @@
+需要mysql python web.py jinja库
+目的是这个blogger可以在各个云平台上完美运行的
+
+mysql安装:
+google
+
+web.py与jinja安装
+sudo pip install web.py jinja2 
